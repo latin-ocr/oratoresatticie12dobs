@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oratoresatticie12dobs/oratoresatticie12dobs_0079.png"; bbox 0 0 1965 3322; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 452 1264 1317 1668">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 452 1264 1317 1668">
+     <span class='ocr_line' id='line_1_1' title="bbox 604 1264 1176 1327; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 604 1264 1176 1327; x_wconf 79' lang='grc' dir='ltr'>ΑΙΣΧΙΝΟὙ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 804 1459 959 1498; baseline 0.006 -1"><span class='ocrx_word' id='word_1_2' title='bbox 804 1459 959 1498; x_wconf 75' lang='grc' dir='ltr'>ΚΑΤΑ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 452 1604 1317 1668; baseline 0.006 -5"><span class='ocrx_word' id='word_1_3' title='bbox 452 1604 597 1665; x_wconf 93' lang='lat' dir='ltr'>TI</span> <span class='ocrx_word' id='word_1_4' title='bbox 657 1607 728 1666; x_wconf 92' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_5' title='bbox 791 1608 850 1664; x_wconf 91' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 913 1607 961 1666; x_wconf 91' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_7' title='bbox 1021 1610 1079 1668; x_wconf 93' lang='lat' dir='ltr'>X</span> <span class='ocrx_word' id='word_1_8' title='bbox 1142 1610 1200 1668; x_wconf 89' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_9' title='bbox 1262 1607 1317 1667; x_wconf 82' lang='grc' dir='ltr'>Ὑ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 696 1791 1057 1844">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 696 1791 1057 1844">
+     <span class='ocr_line' id='line_1_4' title="bbox 696 1791 1057 1844; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 696 1791 1057 1844; x_wconf 88' lang='grc' dir='ltr'><strong>ΛΟΓΟΣ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
